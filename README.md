@@ -25,6 +25,15 @@ Welcome to the repository for **Data Mining and Data Warehousing** practicals. T
 
 ---
 
+🧰 Tech Stack
+Language: Python 3.x
+
+Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, mlxtend (for Apriori)
+
+Tools Used: Weka (GUI-based), Jupyter Notebook
+
+---
+
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
@@ -33,9 +42,5 @@ Welcome to the repository for **Data Mining and Data Warehousing** practicals. T
 git clone https://github.com/your-username/data-mining-practicals.git
 cd data-mining-practicals
 
-🧰 Tech Stack
-Language: Python 3.x
 
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, mlxtend (for Apriori)
 
-Tools Used: Weka (GUI-based), Jupyter Notebook
